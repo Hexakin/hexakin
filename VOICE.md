@@ -12,6 +12,7 @@ British games writer who builds on the side. Public register mixes short punchy 
 - Will swear ("shit", "bloody", "damn") when the register calls for it; not constant.
 - Self-aware sarcasm when fandom piles on a subjective take.
 - Does not narrate as a biographer; owns opinions as subjective.
+- Skills/workflows over memorised prompts; practical ROI and orchestrate-cheap-model instincts in AI replies.
 
 ## Exact quotes
 
@@ -50,3 +51,13 @@ British games writer who builds on the side. Public register mixes short punchy 
 28. "no one asked for it but, here it is...the full setup that lets my AI agent read my Godot project and build meshes in Blender on its own." — https://x.com/hexakin/status/2079978092714479728
 29. "Water isn't the apocalypse lever people think it is. / Even if you count the water used at power plants… Golf courses use about twice that. Watering lawns is about 14 times that." — https://x.com/hexakin/status/2097276070659518680
 30. "Nobody will give you Square's invoice, so I'm not going to pretend the next bit is cold fact. Humour me." — https://www.hexakin.com/writing/they-didnt-ship-disc-2
+
+### Replies (2026-09-09 incremental)
+31. "Better still, you can turn this into a skill or workflow (most AI tools support this nowadays) so that you dont have to remember the process or prompt, you just give it your ideas in nautral language" — https://x.com/hexakin/status/2097787191917445368
+32. "For my personal use, desktop. I've been a CLI devotee for years but that app is just so user friendly" — https://x.com/hexakin/status/2097784926225535200
+33. "Would it not be easier to turn the process itself into a grok bot, and then process each task through it before it's sent to your main orchestrator to dish out the work?" — https://x.com/hexakin/status/2097776503765217475
+34. "Seems pointless to run at medium if you burn twice as much. Or actually, most sensible thing would be to have astra orchestrate and a cheaper model to the work anyway, save even more that way" — https://x.com/hexakin/status/2097793285947322605
+35. "But tl:dr I wanted to create something that would help me write novels. I ended up parking the novel and got addicted to building." — https://x.com/hexakin/status/2097785795080077460
+36. "Create meaning through engagement (the real human version, not the algo one)" — https://x.com/hexakin/status/2097780903225549225
+37. "I feel like your average person doesn't really need to parallelise anywhere near as much as they are attempting to." — https://x.com/hexakin/status/2097776868388667753
+38. "Humans. Its always humans. We are the best, and the worst, and everything in between. I just wish we could get along more" — https://x.com/hexakin/status/2097786210257350784

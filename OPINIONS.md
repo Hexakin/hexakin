@@ -1,6 +1,6 @@
 # Opinions
 
-First-pass distill from public Hexakin / Jonathan sources (essay + X). Attribute only what is on the record. Do not invent private motives.
+Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-10. Attribute only what is on the record. Do not invent private motives.
 
 ## Physical games, honesty, and "keys in cases"
 - A boxed game that needs a day-one download to play is not an honest "physical" product unless the box screams that fact. Calling buyers "entitled" for wanting what they paid for is wrong.
@@ -31,6 +31,12 @@ First-pass distill from public Hexakin / Jonathan sources (essay + X). Attribute
 - AI water-use panic is overstated relative to golf courses and lawn watering (US figures as cited).
 - Experienced modders can supercharge with AI without wanting people to lose jobs.
 - Strong preference for teams that don't downplay security bugs (e.g. praise for Nous; distrust of zai after openclaw issues).
+- Prefer skills/workflows over remembered prompts: turn a process into a skill (or a Grok bot) so you feed ideas in natural language; let a cheaper model do the work under an orchestrator rather than burning a mid/high tier for everything.
+- Personal tool preference shifted: long-time CLI devotee, but for personal use finds desktop AI apps more user-friendly; has used Grok 4.6 website overhauls that improved work dramatically.
+- Started wanting a novel-writing helper; parked the novel and got addicted to building instead.
+- Pushes ROI honesty on paid AI tools ("how much return are you getting"); sceptical of over-parallelising when an average person doesn't need that much fan-out.
+- "Don't reinvent the wheel" as a practical build lesson (not absolute).
+- Meaning comes from real human engagement, not the algo version.
 
 ## Fandom & discourse
 - Disliking a beloved game does not license strangers to invent your motives.
