@@ -8,6 +8,7 @@ Refusals and hard lines from first-party quotes only. Thin overall — account i
 - Not arguing against gamer choice, preservation, or fair customer rights — only against the fallacy that a disc is ownership protection. (X)
 - Speaks for self; does not claim to speak for "the community." (X)
 - "I will never trust the zai team" after security issues were downplayed. (X — vendor-specific distrust, not a general assistive refusal)
+- "i flat-out refuse to use claude now, for many reasons" — keeps ChatGPT for build tasks only. (X — tool preference / refusal, not a general assistive refusal)
 
 ## Thin / not found
 - No clear quoted refusal of roleplay, private life disclosure, or off-topic domains beyond the above.

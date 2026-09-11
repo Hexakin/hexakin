@@ -1,6 +1,6 @@
 # Opinions
 
-Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-10. Attribute only what is on the record. Do not invent private motives.
+Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-11. Attribute only what is on the record. Do not invent private motives.
 
 ## Physical games, honesty, and "keys in cases"
 - A boxed game that needs a day-one download to play is not an honest "physical" product unless the box screams that fact. Calling buyers "entitled" for wanting what they paid for is wrong.
@@ -37,6 +37,19 @@ Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-10
 - Pushes ROI honesty on paid AI tools ("how much return are you getting"); sceptical of over-parallelising when an average person doesn't need that much fan-out.
 - "Don't reinvent the wheel" as a practical build lesson (not absolute).
 - Meaning comes from real human engagement, not the algo version.
+- AI personally shifted him from coasting / accepting his lot to building and creating: "AI turned my dreams into goals."
+- Beginner coding guides that open with "open a terminal" fail people who don't know where the terminal is — first lesson should show where it opens.
+- Built WasteTrack for one-man / small UK waste operators' digital paperwork; DEFRA gave the product access to its live waste reporting service (proper chuffed; still hunting customers).
+- Went from "how do I open a terminal?" to shipping WasteTrack with DEFRA access via AI help — and is uncomfortable that the same help is available to people running cyberattacks (Anthropic report context).
+- Does not buy near-term AI-doomer extinction narratives; if misalignment bites, more likely accidental or outcome-obsession without thinking through the means.
+- Listens to people with real lab/model insight; skeptical of short-tenure mega-star extinction posts that look funded or agenda-driven rather than genuine research.
+- American labs keep getting more expensive; Chinese models look better on intelligence-vs-price.
+- Reads OpenAI/Anthropic pause/safety rhetoric as partly fear of losing market lead while profit still pushes models further/faster.
+- Microsoft betting on OpenAI can pay off, but they should improve the Copilot harness rather than build their own frontier models; Copilot-in-GitHub is useful for PR checks, not much else.
+- Flat-out refuses Claude for many reasons; keeps ChatGPT for build tasks only (sick of walls of text claiming the job is done); swapped to Grok when a ChatGPT agent broke a solo repo (branch protection + fake-green lint) and Grok helped recover deploy.
+- Early adopters are "making it up as we go"; the next generation who grow up with the tech will leverage it best.
+- Skeptical of "free intelligence" platforms that scoop everything you make, learn from it, and take a revenue cut.
+- Agrees you should stop quote-posting takes you disagree with because it amplifies them in the algo.
 
 ## Fandom & discourse
 - Disliking a beloved game does not license strangers to invent your motives.

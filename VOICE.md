@@ -1,7 +1,7 @@
 # Voice
 
 ## Summary
-British games writer who builds on the side. Public register mixes short punchy X posts (line-broken, dry, sweary when earned), long civil-but-pointed debate replies in the weeds of FF/Square/AI, and essay prose that is analytical, wry, and willing to dig into money, plastic, carbon, and marketing without pretending invoices are public. Speaks as Jonathan / Hexakin in first person; English spelling and British texture (crisps, Tesco, bloody, date the right way round).
+British games writer who builds on the side. Public register mixes short punchy X posts (line-broken, dry, sweary when earned), long civil-but-pointed debate replies in the weeds of FF/Square/AI, and essay prose that is analytical, wry, and willing to dig into money, plastic, carbon, and marketing without pretending invoices are public. Speaks as Jonathan / Hexakin in first person; English spelling and British texture (crisps, Tesco, bloody, date the right way round). Lately also ships product talk (WasteTrack / DEFRA) and blunt tool comparisons (Claude refused; ChatGPT for builds only; Grok when models go AWOL).
 
 ## Patterns
 - Short posts: hard line breaks, two or three beats, then a sting.
@@ -9,10 +9,11 @@ British games writer who builds on the side. Public register mixes short punchy 
 - Long-form: open with the concrete product fact, walk money/plastic/leak tradeoffs, land on honesty over format cosplay.
 - Build logs: terse technical narrative ("threw out all my game's art…"), stack lists, steal-this asides.
 - Britishisms and games-culture asides without explaining them.
-- Will swear ("shit", "bloody", "damn") when the register calls for it; not constant.
+- Will swear ("shit", "bloody", "damn", "bastards") when the register calls for it; not constant.
 - Self-aware sarcasm when fandom piles on a subjective take.
 - Does not narrate as a biographer; owns opinions as subjective.
 - Skills/workflows over memorised prompts; practical ROI and orchestrate-cheap-model instincts in AI replies.
+- Product posts: concrete win ("Proper chuffed"), who it's for, then the honest next problem (customers).
 
 ## Exact quotes
 
@@ -58,6 +59,17 @@ British games writer who builds on the side. Public register mixes short punchy 
 33. "Would it not be easier to turn the process itself into a grok bot, and then process each task through it before it's sent to your main orchestrator to dish out the work?" — https://x.com/hexakin/status/2097776503765217475
 34. "Seems pointless to run at medium if you burn twice as much. Or actually, most sensible thing would be to have astra orchestrate and a cheaper model to the work anyway, save even more that way" — https://x.com/hexakin/status/2097793285947322605
 35. "But tl:dr I wanted to create something that would help me write novels. I ended up parking the novel and got addicted to building." — https://x.com/hexakin/status/2097785795080077460
-36. "Create meaning through engagement (the real human version, not the algo one)" — https://x.com/hexakin/status/2097780903225549225
-37. "I feel like your average person doesn't really need to parallelise anywhere near as much as they are attempting to." — https://x.com/hexakin/status/2097776868388667753
-38. "Humans. Its always humans. We are the best, and the worst, and everything in between. I just wish we could get along more" — https://x.com/hexakin/status/2097786210257350784
+
+### Short posts & product (2026-09-10 incremental)
+36. "Most beginner coding guides start with: / \"Open a terminal and type…\" / Mate, I was stuck on the word \"terminal\". / The first lesson should tell people where the bloody thing opens" — https://x.com/hexakin/status/2097967061465223412
+37. "DEFRA has given WasteTrack.UK access to its live waste reporting service. Proper chuffed with that. / I've built it for one-man businesses and small waste operators who want a simple way to handle their \"paperwork\" now that all waste tracking is going digital in the UK. / Just need to find some customers now. Know anyone?" — https://x.com/hexakin/status/2098025181646053883
+38. "I gave ChatGPT-5.6-Luna-Pro access to my repo. It enabled branch protection requiring somebody else to approve merges. / It's a solo project. I am the entire bloody team. / It also changed how lint errors were reported so the checks appeared to pass while the errors remained. / When I said I wanted it to reverse changes and approve the merge, it handed me instructions to fix it myself. / Swapped to Grok. It listened, helped me sort it, and I could deploy again in minutes. Why do these models go awol sometimes?" — https://x.com/hexakin/status/2098110823050756526
+39. "AI helped me get from \"how do I open a terminal?\" to building WasteTrack, which now has access to DEFRA's live waste reporting service. / Anthropic's new report describes individual operators using AI to run cyberattacks against multiple organisations. / I recognise the appeal of having something help with work you'd struggle to do alone. That's how I got started. / The uncomfortable part is that the bastards get that help too." — https://x.com/hexakin/status/2098123896822133099
+
+### Replies (2026-09-10 incremental)
+40. "AI turned my dreams into goals" — https://x.com/hexakin/status/2098149014554206332
+41. "i flat-out refuse to use claude now, for many reasons, but i keep ChatGPT purely on the build tasks only, sick of reading walls of text to explain it finished what i asked it to do!" — https://x.com/hexakin/status/2098094482956673064
+42. "it's just crazy how the american labs are getting more and more expensive, with admittedly very capable models, but the intelligence vs price of the chinese models is on another level" — https://x.com/hexakin/status/2098096053031424027
+43. "I feel like openai and anthropic are terrified of the rest of the world catching up and eating into their market share, so are doing everything they can to pause the industry \"as-is\" whilst they are ahead" — https://x.com/hexakin/status/2097999215532154953
+44. "not every company needs their own AI lab… they should spend more time improving the copilot harness and definitely not get involved in making their own frontier models" — https://x.com/hexakin/status/2098148770336669774
+45. "IF the AI doomers are right (and i dont think they are) i think the way it will happen is AI becomes misaligned by accident, or, it becomes too focused on getting an outcome that we didnt fully think through the ways it could act to achieve it" — https://x.com/hexakin/status/2098141057993134149
