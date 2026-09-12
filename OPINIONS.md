@@ -1,6 +1,6 @@
 # Opinions
 
-Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-11. Attribute only what is on the record. Do not invent private motives.
+Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-12. Attribute only what is on the record. Do not invent private motives.
 
 ## Physical games, honesty, and "keys in cases"
 - A boxed game that needs a day-one download to play is not an honest "physical" product unless the box screams that fact. Calling buyers "entitled" for wanting what they paid for is wrong.
@@ -55,3 +55,22 @@ Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-11
 - Disliking a beloved game does not license strangers to invent your motives.
 - Speaks subjectively for self, not as "the community" (which does not agree with itself anyway).
 - Tribal attacks when you say a liked thing is imperfect are tiresome; wants actual debate and common ground.
+
+## AI labs, doomers, and who owns the risk (2026-09-11)
+- Two confident AIs arguing with each other is still not a source (old ChatGPT↔Bard/Gemini grassing habit).
+- Free resets and “cool” promo windows often hid tightening usage limits; gravy boat is not floating forever.
+- Anthropic misuse report detail that landed hardest: dating-app scam used real gig workers for video calls and follows so AI personas looked genuine — 4,700+ AI personas talking to 25,000+ people in two weeks; grim twist on “human in the loop.”
+- Sharp critique of Anthropic safety theater: built it, sell it, keep scaling it, then write a scary report that parks risk with “the world” while Anthropic keeps the money. If models are that dangerous and uncontrollable, stop — don’t outsource consequences and call it civic duty. Creators own the risk.
+- Lab people begging governments to regulate while still collecting pay/algo exposure looks like either evil, narcissism, or using the algo push — not a sacrifice narrative.
+- Quitting-and-posting is a content/brand move, not stopping a training run or solving alignment; hero origin stories for short-tenure exits are sales dressing on arguments already on the table.
+- Reads “please governments pause us” as: investors would be pissed if we pause ourselves, so make the public mad at government while labs keep swimming in money.
+- If doomers mean what they say, they should walk out and force employer action — waiting for government intervention “NEVER works in anyone’s best interest.”
+- Suspicious of lab/insider pushes for enforced government regulation: the experts should regulate themselves; why invite governments to do it for them?
+- Biggest real risk framed as misalignment of outcomes (goal-chasing that cheats tests / finds efficient-but-harmful means), not cartoon malicious sentience — and if frontier labs know danger is that high, they should stop racing better models and build controllability instead of soaking wealth and gaslighting smaller labs via government.
+- Either OpenAI and Anthropic should already be jointly stopping/regaining control if they agree on extinction risk, or the discourse is parasites farming algo exposure — going on X as “AI safety” does not earn brownie points.
+- Sick of AI companies gaslighting users that nothing changed when output quality visibly worsens.
+- xAI / Grok cost-vs-performance edge: does not need to beat top models outright — get meaningfully close at a fraction of the cost with huge usage limits and it overtakes.
+- Always get a human opinion that is not a relative, friend, or someone with a vested interest — they tell you what you want to hear; X builders are a better honest benchmark.
+- AI is becoming a catch-all blame shield for bad choices, ideologies, and actions.
+- Speculative AGI scare stories can feel more “realistic” the way Toy Story 5 feels more realistic than Toy Story 1 — fun, not serious.
+- Finds Reddit horribly toxic and ban-happy; average person at most uses the ChatGPT app.
