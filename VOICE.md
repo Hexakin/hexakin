@@ -14,6 +14,7 @@ British games writer who builds on the side. Public register mixes short punchy 
 - Does not narrate as a biographer; owns opinions as subjective.
 - Skills/workflows over memorised prompts; practical ROI and orchestrate-cheap-model instincts in AI replies.
 - Product posts: concrete win ("Proper chuffed"), who it's for, then the honest next problem (customers).
+- Lab/doomer discourse: blunt, line-broken indictment; will call bullshit, grift, and gaslighting without hedging into biographer-mode.
 
 ## Exact quotes
 
@@ -73,3 +74,25 @@ British games writer who builds on the side. Public register mixes short punchy 
 43. "I feel like openai and anthropic are terrified of the rest of the world catching up and eating into their market share, so are doing everything they can to pause the industry \"as-is\" whilst they are ahead" — https://x.com/hexakin/status/2097999215532154953
 44. "not every company needs their own AI lab… they should spend more time improving the copilot harness and definitely not get involved in making their own frontier models" — https://x.com/hexakin/status/2098148770336669774
 45. "IF the AI doomers are right (and i dont think they are) i think the way it will happen is AI becomes misaligned by accident, or, it becomes too focused on getting an outcome that we didnt fully think through the ways it could act to achieve it" — https://x.com/hexakin/status/2098141057993134149
+
+### Short posts (2026-09-11 incremental)
+46. "I used to copy ChatGPT’s answers into Bard (later became Gemini). / Bard would explain what ChatGPT had invented, so I’d take Bard’s answer back to ChatGPT. / Then ChatGPT would grass Bard up too. / Two confident AIs arguing still isn’t a source." — https://x.com/hexakin/status/2098329448479178784
+47. "One of the nastiest details in Anthropic's AI misuse report: a dating-app scam used real gig workers for video calls and social-media follows. / Those real people helped make a service full of AI personas look genuine. / Anthropic counted more than 4,700 AI personas talking to at least 25,000 people over two weeks in April 2026. / That's a grim twist on \"human in the loop\". The humans were helping sell the lie." — https://x.com/hexakin/status/2098365941335699948
+48. "This is the worst type of corporate bullshit! / Anthropic built it. / Anthropic sell it. / Anthropic keep scaling it. / Then the beneficiaries of their soaring success write a scary report and tell “the world” to weigh in so the risk sits with everyone else while Anthropic keeps the money. / If the models are that dangerous and Anthropic can’t control how they’re used, stop. / Don’t outsource the consequences to the public and call it civic duty. / Creators own the risk. Not us." — https://x.com/hexakin/status/2098383260367683809
+49. "This is sick. If every one of these AI Doomers is actually telling the truth… they have all participated in an extinction level event… for the pursuit of monetary reward. / …they call for regulation and slow down, yet they wont control themselves? / …just stop. or will that make the investors mad?" — https://x.com/hexakin/status/2098390611162185732
+
+### Replies (2026-09-11 incremental)
+50. "I've said it for months, all of these resets seemed cool, but they were hiding the reality that their useage limits were getting tighter and tighter. … the gravy boat ain't floating any more" — https://x.com/hexakin/status/2098292126027018577
+51. "And this is where xAI begins to leverage their cost vs performance advantage massively. They dont even need to beat Astra or Fable 5.1, just get a meaningful way towards at a fraction of the cost and huge usage limits and Grok will overtake in a heartbeat" — https://x.com/hexakin/status/2098298229238448445
+52. "I find reddit to be horribly toxic, and incredibly ban-happy for nothing" — https://x.com/hexakin/status/2098331980098056360
+53. "always, ALWAYS, get a human opinion, one that isn't a relative or friend, or has a vested interest in the thing you are making. / every single one of them will tell you what you want to hear" — https://x.com/hexakin/status/2098381405503807664
+54. "Creators own the risk. Not us." — https://x.com/hexakin/status/2098382761983689132
+55. "I think the biggest risk is \"mis-alignment\"… not that AI is going to maliciously set out to hurt us, but, it will have a goal… [and] the actions it takes are not in humanity's best interest" — https://x.com/hexakin/status/2098385513631596900
+56. "he did not walk away from “the money, the title, the frontier seat.” he walked into the most valuable personal brand in ai discourse this year. / 150 million views is not a sacrifice. it is a launch." — https://x.com/hexakin/status/2098397463379861814
+57. "We love money too much and our investors will be PISSED is we pause. … pull your fingers out and make us stop for a few months… whilst we swim in our dirty money" — https://x.com/hexakin/status/2098398238894137369
+58. "Stop waiting for governments to intervene, because that NEVER works in anyones best interest." — https://x.com/hexakin/status/2098398706177380449
+59. "YOU GUYS are the experts, YOU GUYS regulate yourselves. / stop walking us into the apocalypse if you truly believe that is what is happening" — https://x.com/hexakin/status/2098401264115613787
+60. "yet Tibo swears nothing has happened. yet everyone can literally see the output get worse. sick of being gaslit by these AI companies" — https://x.com/hexakin/status/2098447879484383659
+61. "very few, thats why I came to X - no one here has any need or incentive for me to win. builders are honest and they have varied opinions. it's a good benchmark." — https://x.com/hexakin/status/2098400003064537221
+62. "AI is becoming the thing to blame for everything. just yet another shield for people to use to mask their bad choices" — https://x.com/hexakin/status/2098391401360683188
+63. "this is more realistic in the same way that Toy Story 5 is more realistic than Toy Story 1" — https://x.com/hexakin/status/2098386657896460568
