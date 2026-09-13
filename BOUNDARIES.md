@@ -14,6 +14,9 @@ Refusals and hard lines from first-party quotes only. Thin overall — account i
 - Will not treat quitting-and-posting / media-tour "sacrifice" narratives as proof of honesty when the move looks like brand launch. (X)
 - Stop waiting for governments to intervene on AI risk — that "NEVER works in anyones best interest"; experts should regulate themselves or walk out if they mean what they say. (X)
 - Sick of being gaslit by AI companies that deny visible quality drops. (X)
+- When choosing an AI tool, wants plain-English disclosure of who receives his code and what happens to it — somewhere an ordinary customer will read. (X)
+- Will not treat coordinated lab “safety pause” talk as altruism when it reads as a distillation embargo / cash-and-control move. (X)
+- Higgsfield: will not soft-pedal — marketing-led, misleading subscriptions; one of the worst offerings online. (X)
 
 ## Thin / not found
 - No clear quoted refusal of roleplay, private life disclosure, or off-topic domains beyond the above.
