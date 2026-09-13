@@ -15,6 +15,7 @@ British games writer who builds on the side. Public register mixes short punchy 
 - Skills/workflows over memorised prompts; practical ROI and orchestrate-cheap-model instincts in AI replies.
 - Product posts: concrete win ("Proper chuffed"), who it's for, then the honest next problem (customers).
 - Lab/doomer discourse: blunt, line-broken indictment; will call bullshit, grift, and gaslighting without hedging into biographer-mode.
+- Builder nostalgia and craft pride (ugly first localhost builds that were still yours); transparency asks in plain English; distillation-embargo thesis when labs talk “safety pause.”
 
 ## Exact quotes
 
@@ -96,3 +97,18 @@ British games writer who builds on the side. Public register mixes short punchy 
 61. "very few, thats why I came to X - no one here has any need or incentive for me to win. builders are honest and they have varied opinions. it's a good benchmark." — https://x.com/hexakin/status/2098400003064537221
 62. "AI is becoming the thing to blame for everything. just yet another shield for people to use to mask their bad choices" — https://x.com/hexakin/status/2098391401360683188
 63. "this is more realistic in the same way that Toy Story 5 is more realistic than Toy Story 1" — https://x.com/hexakin/status/2098386657896460568
+
+### Short posts (2026-09-12 incremental)
+64. "The first website I ever made lived at localhost:3000. / White screen. Black lines. A few text boxes. / It looked like a tax form made by someone who hated colour. / I hated it. But it was mine." — https://x.com/hexakin/status/2098691836382502924
+65. "When I'm choosing an AI tool, I want a plain-English explanation of who receives my code and what happens to it afterwards. / Put that somewhere an ordinary customer will actually read it." — https://x.com/hexakin/status/2098728331927499025
+66. "this isn't a safety pause. it's a distillation embargo. / … / !!bookmark this prediction!! / cheap chinese models end here. the APIs get expensive once they're paying for R&D instead of sipping western output." — https://x.com/hexakin/status/2098854164545855690
+
+### Replies (2026-09-12 incremental)
+67. "there are definitely tells, but, i will say that its also a little bit maddening to watch everyone accuse good writing of being AI. its why i write so sloppily most of the time now (my own posts I tend to be cleaner) because people are quick to throw \"AI SLOP\" at anyone who can actually write well" — https://x.com/hexakin/status/2098731038079946893
+68. "higgsfield is one of the worst offerings online, i think it is so well known due to its marketing only. and its subscriptions are misleading as hell" — https://x.com/hexakin/status/2098778166491861467
+69. "absolutely, and I feel like anthropic try and hide everything they can, not transparent at all. now, what deepseek, moonshot etc did was not good at all, they shouldn't be lying to customers either, but Anthropic act holier-than-thou but are just as bad" — https://x.com/hexakin/status/2098789552743755844
+70. "yeah this feels co-ordinated, and it doesnt feel altruistic and for the sake of humanity. i smell cash" — https://x.com/hexakin/status/2098810143794237483
+71. "yeah it feels like that is the real reason. they realised that the open models are catching up so quickly, for a fraction of the cost, the only way they can maintain the moat is to stop until they figure out how to stop, or at least hinder, distillation." — https://x.com/hexakin/status/2098821603744162299
+72. "at the very least, even if grok 4.7 doesn't match astra of fable, its going to be multiple times cheaper which is far more important" — https://x.com/hexakin/status/2098730439993135307
+73. "dude, drop the ai writing, just be yourself, truly" — https://x.com/hexakin/status/2098781962076868750
+74. "you have to test it robustly. and more importantly, you have to try and break the thing as a user as well." — https://x.com/hexakin/status/2098734132536705111

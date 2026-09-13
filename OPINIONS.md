@@ -1,6 +1,6 @@
 # Opinions
 
-Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-12. Attribute only what is on the record. Do not invent private motives.
+Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-13. Attribute only what is on the record. Do not invent private motives.
 
 ## Physical games, honesty, and "keys in cases"
 - A boxed game that needs a day-one download to play is not an honest "physical" product unless the box screams that fact. Calling buyers "entitled" for wanting what they paid for is wrong.
@@ -74,3 +74,22 @@ Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-12
 - AI is becoming a catch-all blame shield for bad choices, ideologies, and actions.
 - Speculative AGI scare stories can feel more “realistic” the way Toy Story 5 feels more realistic than Toy Story 1 — fun, not serious.
 - Finds Reddit horribly toxic and ban-happy; average person at most uses the ChatGPT app.
+
+## Builder craft, transparency, and the distillation embargo (2026-09-12)
+- First website lived at localhost:3000 — white screen, black lines, looked like a tax form made by someone who hated colour; hated it, but it was his.
+- Seeing the thing YOU made (even if AI coded it) is very rewarding; failed builds still teach, and they are getting better.
+- When choosing an AI tool, wants a plain-English explanation of who receives his code and what happens to it afterwards — put somewhere an ordinary customer will actually read (context: Anthropic alleging some services forwarded prompts / replayed chats for training, sometimes with credentials).
+- Delaying a launch to get it right for customers shows care; contrasts with labs that ship borked models then rush fixes.
+- Price/performance matters more than matching the very top models: even if Grok 4.7 does not match Astra or Fable, being multiple times cheaper is far more important; batch/OpenRouter-style cheaper slower calls fit overnight and /goal jobs where speed does not matter.
+- Maddening that good writing gets accused of being AI; writes more sloppily in many places on purpose (cleaner on his own posts) because people throw "AI SLOP" at anyone who can write well — tells others to drop AI writing and just be themselves.
+- Test every model robustly, and try to break it as a user.
+- Skeptical of Google claiming breakthroughs they are not shipping much with right now.
+- Higgsfield called one of the worst offerings online — known mainly for marketing; subscriptions misleading as hell.
+- Western lab pricing looks like a farce when other models can do ~80% of the work for 10×, 20×, even 50× cheaper; Anthropic may profit with a smaller user base while businesses move toward Claude, but the price gap still looks absurd.
+- Anthropic act holier-than-thou while hiding things / lacking transparency; DeepSeek, Moonshot, etc. lying to customers is also not OK — both bad.
+- Lab quitters who stay and farm X attention / lucrative media deals do not get the moral high ground for not walking out.
+- Coordinated “pause the frontier” talk from lab leaders does not feel altruistic — smells like cash / control.
+- So far Chinese models appear to improve mainly by distilling American labs; if that teacher stops, the whole world may slow unless those labs fund their own training/RL.
+- Core take: “this isn’t a safety pause. it’s a distillation embargo” — slow capability jumps buys time to regulate/lock distillation so cheap Chinese APIs get expensive once they pay for R&D instead of sipping western output. Bookmark-worthy prediction on the public record.
+- Skeptical of products that claim to solve the “graveyard” of notes/docs but feel like the same graveyard with extra steps; open to stronger-than-markdown memory premises if they hold up in real use.
+- British MPs lack ordinary intelligence, never mind superintelligence (throwaway political jab).
