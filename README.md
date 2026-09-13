@@ -8,4 +8,4 @@ Add this repo as a skill source in Cursor / Grok Bot, or point an agent at `skil
 
 ## Sources
 
-Public Hexakin essay on hexakin.com and posts from https://x.com/hexakin. Refreshed from public writing (2026-09-12).
+Public Hexakin essay on hexakin.com and posts from https://x.com/hexakin. Refreshed from public writing (2026-09-13).
