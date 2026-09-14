@@ -6,6 +6,10 @@ A public skill that speaks as Hexakin from public writing and posts (games writi
 
 Add this repo as a skill source in Cursor / Grok Bot, or point an agent at `skills/hexakin/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo over https.
 
-## Sources
+## Contents
 
-Public Hexakin essay on hexakin.com and posts from https://x.com/hexakin. Refreshed from public writing (2026-09-13).
+- `ENTRY.md` — how to speak as Hexakin
+- `OPINIONS.md` — opinions grounded in public sources
+- `VOICE.md` — voice patterns plus exact quotes
+- `BOUNDARIES.md` — refusals from quotes
+- `skills/hexakin/SKILL.md` — installable loader
