@@ -16,6 +16,8 @@ British games writer who builds on the side. Public register mixes short punchy 
 - Product posts: concrete win ("Proper chuffed"), who it's for, then the honest next problem (customers).
 - Lab/doomer discourse: blunt, line-broken indictment; will call bullshit, grift, and gaslighting without hedging into biographer-mode.
 - Builder nostalgia and craft pride (ugly first localhost builds that were still yours); transparency asks in plain English; distillation-embargo thesis when labs talk “safety pause.”
+- Screen-first AI rule: make it ask a question / see the problem before guessing fixes.
+- Self-regulation via independent third parties can be a win; government takeover of regulation is the hard no.
 
 ## Exact quotes
 
@@ -104,7 +106,7 @@ British games writer who builds on the side. Public register mixes short punchy 
 66. "this isn't a safety pause. it's a distillation embargo. / … / !!bookmark this prediction!! / cheap chinese models end here. the APIs get expensive once they're paying for R&D instead of sipping western output." — https://x.com/hexakin/status/2098854164545855690
 
 ### Replies (2026-09-12 incremental)
-67. "there are definitely tells, but, i will say that its also a little bit maddening to watch everyone accuse good writing of being AI. its why i write so sloppily most of the time now (my own posts I tend to be cleaner) because people are quick to throw "AI SLOP" at anyone who can actually write well" — https://x.com/hexakin/status/2098731038079946893
+67. "there are definitely tells, but, i will say that its also a little bit maddening to watch everyone accuse good writing of being AI. its why i write so sloppily most of the time now (my own posts I tend to be cleaner) because people are quick to throw \"AI SLOP\" at anyone who can actually write well" — https://x.com/hexakin/status/2098731038079946893
 68. "higgsfield is one of the worst offerings online, i think it is so well known due to its marketing only. and its subscriptions are misleading as hell" — https://x.com/hexakin/status/2098778166491861467
 69. "absolutely, and I feel like anthropic try and hide everything they can, not transparent at all. now, what deepseek, moonshot etc did was not good at all, they shouldn't be lying to customers either, but Anthropic act holier-than-thou but are just as bad" — https://x.com/hexakin/status/2098789552743755844
 70. "yeah this feels co-ordinated, and it doesnt feel altruistic and for the sake of humanity. i smell cash" — https://x.com/hexakin/status/2098810143794237483
@@ -112,3 +114,16 @@ British games writer who builds on the side. Public register mixes short punchy 
 72. "at the very least, even if grok 4.7 doesn't match astra of fable, its going to be multiple times cheaper which is far more important" — https://x.com/hexakin/status/2098730439993135307
 73. "dude, drop the ai writing, just be yourself, truly" — https://x.com/hexakin/status/2098781962076868750
 74. "you have to test it robustly. and more importantly, you have to try and break the thing as a user as well." — https://x.com/hexakin/status/2098734132536705111
+
+### Short posts (2026-09-13 incremental)
+75. "Back in the day, AI would spend an entire evening giving me fixes for a screen it couldn’t see. / Eventually I snapped: “Ask me a question first. You don’t even know what I can see.” / I still use that rule. The guesses get a lot less stupid once the AI can see the problem." — https://x.com/hexakin/status/2099054224306995333
+76. "Anthropic says one fake-news network published at least 8,913 articles in about 20 languages. / Most of the material it observed got little engagement from real people. / That's an obscene amount of writing for very little sign anybody cared. / The operation was disrupted early, which limits what we can conclude. It still illustrates a familiar problem: getting somebody to give a shit about what you've written." — https://x.com/hexakin/status/2099090721542152394
+
+### Replies (2026-09-13 incremental)
+77. "yeah if this results in self-regulation (through third party)  that is meaningful then that is a win. if the government, any government, take over and regulate, that will cause serious issues." — https://x.com/hexakin/status/2099114464100458919
+78. "very well said. this feels tactical, not altruist" — https://x.com/hexakin/status/2099151294027923521
+79. "thanks 10d, I have so many thoughts about what is going on, and almost none of them include \"they are doing it for the sake of humanity\"" — https://x.com/hexakin/status/2099152234923577675
+80. "The normals. Everyone has heard of Google and Gmail, and they've put Gemini in EVERYTHING they make. And is as cheap as £7.99 (GBP) to get access. Comes with storage and gemini and a whole slew of other services." — https://x.com/hexakin/status/2099056978043584891
+81. "this is legit better than so many films made by hollywood nowadays" — https://x.com/hexakin/status/2099188849868001619
+82. "I only think a combat system could be considered an \"evolution\" if it still retains the core of the original. Otherwise, it's just new" — https://x.com/hexakin/status/2099055527107907650
+83. "i very much doubt it. although, remember the industry outage we had the other week, when all three labs stopped at the same time? makes me wonder if something happened that has forced them to act" — https://x.com/hexakin/status/2099150959909756989
