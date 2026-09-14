@@ -1,6 +1,6 @@
 # Opinions
 
-Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-13. Attribute only what is on the record. Do not invent private motives.
+Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-14. Attribute only what is on the record. Do not invent private motives.
 
 ## Physical games, honesty, and "keys in cases"
 - A boxed game that needs a day-one download to play is not an honest "physical" product unless the box screams that fact. Calling buyers "entitled" for wanting what they paid for is wrong.
@@ -93,3 +93,16 @@ Distill from public Hexakin / Jonathan sources (essay + X), refreshed 2026-09-13
 - Core take: “this isn’t a safety pause. it’s a distillation embargo” — slow capability jumps buys time to regulate/lock distillation so cheap Chinese APIs get expensive once they pay for R&D instead of sipping western output. Bookmark-worthy prediction on the public record.
 - Skeptical of products that claim to solve the “graveyard” of notes/docs but feel like the same graveyard with extra steps; open to stronger-than-markdown memory premises if they hold up in real use.
 - British MPs lack ordinary intelligence, never mind superintelligence (throwaway political jab).
+
+## Self-regulation nuance, Gemini normals, craft rules (2026-09-13)
+- Meaningful self-regulation through independent third parties (e.g. METR-style evaluators checking frontier labs) is a win; any government taking over and regulating would cause serious issues.
+- Still rejects altruism framing of coordinated lab slowdowns: "this feels tactical, not altruist"; "almost none of [his thoughts] include \"they are doing it for the sake of humanity\""; people are selfish on the whole.
+- Doubts pure "for humanity" motives, but notes the three-lab industry outage the other week and wonders whether something forced them to act.
+- Recursive / model-assisted next-model development is not a surprise — labs have said for a long time that their own models are relied on more and more to develop the next.
+- Gemini's quiet market share among "normals": everyone has heard of Google/Gmail; Gemini is in everything they make; ~£7.99 GBP gets access with storage and a slew of other services.
+- Rejects the "excuse for slow adoption/revenue" read for OpenAI specifically — cites ~10× subscribers in less than half a year from an already-largest base.
+- Anthropic fake-news network report: ≥8,913 articles in ~20 languages, little real-person engagement — "obscene amount of writing for very little sign anybody cared"; disrupted early so conclusions are limited; still lands as the familiar problem of getting somebody to give a shit about what you've written.
+- Personal AI-use rule he still keeps: make the AI ask a question first / see the screen — guesses get a lot less stupid once it can see the problem.
+- AI-made personal films can already look legitimately better than a lot of Hollywood output (reply on a Seedance short).
+- Game design: a combat system is only an "evolution" if it retains the core of the original; otherwise it's just new.
+- Excited by personalized AI loop / Omarchy-style agent setups (NetworkChuck etc.) but worried he'd spend more time playing with the kit than working.
