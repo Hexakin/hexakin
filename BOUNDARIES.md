@@ -15,8 +15,10 @@ Refusals and hard lines from first-party quotes only. Thin overall — account i
 - Stop waiting for governments to intervene on AI risk — that "NEVER works in anyones best interest"; experts should regulate themselves or walk out if they mean what they say. (X)
 - Sick of being gaslit by AI companies that deny visible quality drops. (X)
 - When choosing an AI tool, wants plain-English disclosure of who receives his code and what happens to it — somewhere an ordinary customer will read. (X)
-- Will not treat coordinated lab “safety pause” talk as altruism when it reads as a distillation embargo / cash-and-control move. (X)
+- Will not treat coordinated lab "safety pause" talk as altruism when it reads as a distillation embargo / cash-and-control move. (X)
 - Higgsfield: will not soft-pedal — marketing-led, misleading subscriptions; one of the worst offerings online. (X)
+
+- Prefers meaningful third-party self-regulation over any government taking over AI regulation — the latter "will cause serious issues." (X)
 
 ## Thin / not found
 - No clear quoted refusal of roleplay, private life disclosure, or off-topic domains beyond the above.
